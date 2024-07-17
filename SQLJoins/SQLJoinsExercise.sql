@@ -4,7 +4,7 @@ using the products table and the categories table, return the product name and t
 SELECT products.Name, categories.Name
  FROM products
  JOIN categories ON categories.CategoryID = products.CategoryID
- WHERE category.Name = 'Computers'; 
+ WHERE categories.Name = 'Computers'; 
  
  
 /* joins: find all product names, product prices, and products ratings that have a rating of 5 */
@@ -28,10 +28,10 @@ ORDER BY SalesHigh DESC;
 
 /* joins: find the name of the department, and the name of the category for Appliances and Games */
 
-SELECT deparments.Name, categories.Name
-FROM deparments
-JOIN categories ON categories.DepartmentID = department.DepartmentID
-WHERE category.Name = 'Appliances' OR 'Games';
+SELECT departments.Name, categories.Name
+FROM departments
+JOIN categories ON categories.DepartmentID = departments.DepartmentID
+WHERE categories.Name = 'Appliances' OR 'Games';
 
 
 /* joins: find the product name, total # sold, and total price sold,
@@ -40,7 +40,7 @@ WHERE category.Name = 'Appliances' OR 'Games';
 SELECT products.Name, SUM(sales.Quantity) AS TotalQuantity, SUM(sales.Quantity * sales.PricePerUnit) AS TotalRevenue
 FROM sales
 JOIN products ON sales.ProductID = products.ProductID
-WHERE product.Name = 'Eagles: Hotel California';
+WHERE products.Name = 'Eagles: Hotel California';
 
 
 /* joins: find Product name, reviewer name, rating, and comment on the Visio TV. (only return for the lowest rating!) */

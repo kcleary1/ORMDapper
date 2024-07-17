@@ -1,0 +1,17 @@
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.csproj.AssemblyReference.cache
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.AssemblyInfoInputs.cache
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.AssemblyInfo.cs
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.csproj.CoreCompileInputs.cache
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\bin\Debug\net8.0\KanyeWest.exe
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\bin\Debug\net8.0\KanyeWest.deps.json
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\bin\Debug\net8.0\KanyeWest.runtimeconfig.json
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\bin\Debug\net8.0\KanyeWest.dll
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\bin\Debug\net8.0\KanyeWest.pdb
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.csproj.Up2Date
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.dll
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\refint\KanyeWest.dll
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.pdb
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\KanyeWest.genruntimeconfig.cache
+C:\Users\kyleh\OneDrive\Desktop\repos\KanyeWest\KanyeWest\obj\Debug\net8.0\ref\KanyeWest.dll
